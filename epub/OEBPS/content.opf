@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:publisher>Library Juice Press</dc:publisher>
+    <meta name="calibre:title_sort" content="So You Want to Be a Librarian"/>
+    <meta name="calibre:rating" content="10.00"/>
+    <dc:description>&lt;p&gt;Librarians tend to love their work and consider librarianship a great career. This book is by a talented librarian who wants to introduce people, especially people searching for the right career, to the profession. It answers such questions as: What do librarians do? What are the different types of libraries and professional jobs in libraries? What are librarians all about and what hot issues do they discuss in their professional lives? What do I do to become a librarian? What are some important things to know once I'm in a masters program in library science? This book is an essential introduction to the profession for someone who is at the point of choosing a career.&lt;/p&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="Pressley, Lauren" opf:role="aut">Lauren Pressley</dc:creator>
+    <meta name="calibre:timestamp" content="2013-01-08T21:27:51+00:00"/>
+    <dc:title>So You Want to Be a Librarian</dc:title>
+    <meta name="cover" content="cover"/>
+    <dc:date>2009-07-02T04:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.9.13) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier opf:scheme="AMAZON">0980200482</dc:identifier>
+    <dc:identifier opf:scheme="GOOGLE">jO3Si6pb9YYC</dc:identifier>
+    <dc:identifier opf:scheme="ISBN">9781936117291</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">20192a84-dd5b-4173-a652-610e41e7932e</dc:identifier>
+    <dc:subject>Language Arts &amp; Disciplines</dc:subject>
+    <dc:subject>Library &amp; Information Science</dc:subject>
+    <dc:subject>General</dc:subject>
+    <dc:subject>Business &amp; Economics</dc:subject>
+    <dc:subject>Counseling</dc:subject>
+    <dc:subject>Education</dc:subject>
+    <dc:subject>Careers</dc:subject>
+    <dc:subject>Career Development</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="Baskerville-Old-Face.ttf" id="font" media-type="application/x-font-truetype"/>
+    <item href="SoYouWantToBeALibrarian_split_000.htm" id="html14" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_001.htm" id="html13" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_002.htm" id="html12" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_003.htm" id="html11" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_004.htm" id="html10" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_005.htm" id="html9" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_006.htm" id="html8" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_007.htm" id="html7" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_008.htm" id="html6" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_009.htm" id="html5" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_010.htm" id="html4" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_011.htm" id="html3" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_012.htm" id="html2" media-type="application/xhtml+xml"/>
+    <item href="SoYouWantToBeALibrarian_split_013.htm" id="html1" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="html14"/>
+    <itemref idref="html13"/>
+    <itemref idref="html12"/>
+    <itemref idref="html11"/>
+    <itemref idref="html10"/>
+    <itemref idref="html9"/>
+    <itemref idref="html8"/>
+    <itemref idref="html7"/>
+    <itemref idref="html6"/>
+    <itemref idref="html5"/>
+    <itemref idref="html4"/>
+    <itemref idref="html3"/>
+    <itemref idref="html2"/>
+    <itemref idref="html1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" type="cover" title="Cover"/>
+  </guide>
+</package>

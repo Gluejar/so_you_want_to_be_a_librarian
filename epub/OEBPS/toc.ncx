@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="20192a84-dd5b-4173-a652-610e41e7932e" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (0.9.13)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>So You Want to Be a Librarian</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="40ef5cef-6f41-405b-83dd-993f9b071f01" playOrder="1">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_002.htm"/>
+    </navPoint>
+    <navPoint id="dac71831-d96b-4246-8094-15c98874f897" playOrder="2">
+      <navLabel>
+        <text>Author’s Acknowledgments</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_003.htm"/>
+    </navPoint>
+    <navPoint id="41284428-76a0-4513-93a3-b2119545fc4a" playOrder="3">
+      <navLabel>
+        <text>Publisher’s Acknowledgments</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_004.htm"/>
+    </navPoint>
+    <navPoint id="02ded682-3460-490a-afcb-56cb526739fe" playOrder="4">
+      <navLabel>
+        <text>Introduction</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_005.htm"/>
+      <navPoint id="200c99ba-9d1f-4e3a-a78c-ce63d5213cc6" playOrder="5">
+        <navLabel>
+          <text>About This Book</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_005.htm#calibre_toc_13"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="28272673-cdb7-48cb-a925-1b3d18e57f69" playOrder="6">
+      <navLabel>
+        <text>Types of Libraries</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_006.htm"/>
+      <navPoint id="4b027f73-4a00-4a71-8e66-cd8c454d9c3b" playOrder="7">
+        <navLabel>
+          <text>School Media Centers</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_14"/>
+      </navPoint>
+      <navPoint id="b9580fff-fa3d-4470-b2e9-2c45c9936b42" playOrder="8">
+        <navLabel>
+          <text>Academic libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_15"/>
+      </navPoint>
+      <navPoint id="83636742-81c8-4aaa-b275-6bab04248e51" playOrder="9">
+        <navLabel>
+          <text>Public Libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_16"/>
+      </navPoint>
+      <navPoint id="87214006-8057-404b-9d09-4ee5f20b766c" playOrder="10">
+        <navLabel>
+          <text>Special Libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_17"/>
+      </navPoint>
+      <navPoint id="08934739-c19a-4c23-8af3-f494aefa5517" playOrder="11">
+        <navLabel>
+          <text>Overview</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_18"/>
+      </navPoint>
+      <navPoint id="e9103acf-10b1-44cb-a864-8101653c4480" playOrder="12">
+        <navLabel>
+          <text>Organizations</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_19"/>
+      </navPoint>
+      <navPoint id="753e3cc3-da4d-4e5c-8881-f8e095553ec6" playOrder="13">
+        <navLabel>
+          <text>Further Reading</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_006.htm#calibre_toc_20"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="9240d5dd-7fe7-426a-8180-130c974cfc46" playOrder="14">
+      <navLabel>
+        <text>Types of Jobs</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_007.htm"/>
+      <navPoint id="8dfc829d-b424-49dc-bc95-9b0c1c06cb3e" playOrder="15">
+        <navLabel>
+          <text>Public Service</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_21"/>
+      </navPoint>
+      <navPoint id="31a23b0e-2ed5-4f73-ac9e-1a593204740d" playOrder="16">
+        <navLabel>
+          <text>Technical Services &amp; Collection Management</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_22"/>
+      </navPoint>
+      <navPoint id="c5c8551c-a2e8-4b2e-8387-788c3bb80e10" playOrder="17">
+        <navLabel>
+          <text>Rare Books and Archives</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_23"/>
+      </navPoint>
+      <navPoint id="377052ea-79e6-4b55-9240-9a317caa54dc" playOrder="18">
+        <navLabel>
+          <text>Technology</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_24"/>
+      </navPoint>
+      <navPoint id="5c264d93-179a-410b-8c19-98790fe34ada" playOrder="19">
+        <navLabel>
+          <text>Administration</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_25"/>
+      </navPoint>
+      <navPoint id="63ea0c17-f0f1-4252-9f72-b4d00c396239" playOrder="20">
+        <navLabel>
+          <text>All in One</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_26"/>
+      </navPoint>
+      <navPoint id="52631f16-b774-4f3f-9c28-815f3b18c248" playOrder="21">
+        <navLabel>
+          <text>New Positions</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_27"/>
+      </navPoint>
+      <navPoint id="945c68be-4df0-49a3-9d27-3cc186e442b5" playOrder="22">
+        <navLabel>
+          <text>Organizations</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_007.htm#calibre_toc_28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="6de4cb19-8ab6-4273-a7f6-d9a913803d5f" playOrder="23">
+      <navLabel>
+        <text>Professional Issues</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_008.htm"/>
+      <navPoint id="cb281931-f81e-411b-994a-4d5ce5e30a3f" playOrder="24">
+        <navLabel>
+          <text>Librarians and Libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_008.htm#calibre_toc_29"/>
+      </navPoint>
+      <navPoint id="c91708a7-9a23-40aa-8adc-f29b9c3ef048" playOrder="25">
+        <navLabel>
+          <text>Libraries in Communities</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_008.htm#calibre_toc_30"/>
+      </navPoint>
+      <navPoint id="5c97a947-37a6-4ccc-a1c0-e267bf4e163e" playOrder="26">
+        <navLabel>
+          <text>Intellectual Freedom and Intellectual Property</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_008.htm#calibre_toc_31"/>
+      </navPoint>
+      <navPoint id="12466325-768c-47a6-9625-744bd28b5268" playOrder="27">
+        <navLabel>
+          <text>Technology</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_008.htm#calibre_toc_32"/>
+      </navPoint>
+      <navPoint id="30cb59c5-6c56-4216-9822-e27b561fe953" playOrder="28">
+        <navLabel>
+          <text>Advocacy</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_008.htm#calibre_toc_33"/>
+      </navPoint>
+      <navPoint id="4881bf0e-12fa-4b52-a5e6-ec007bb29c14" playOrder="29">
+        <navLabel>
+          <text>Issues in Librarianship</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_008.htm#calibre_toc_34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="11f6e526-4429-41f1-b207-f6f55ded7e73" playOrder="30">
+      <navLabel>
+        <text>Getting the MLS</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_009.htm"/>
+      <navPoint id="ba2a00c1-288a-409c-9e89-b399ed49afb3" playOrder="31">
+        <navLabel>
+          <text>Finding Programs</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_009.htm#calibre_toc_35"/>
+      </navPoint>
+      <navPoint id="3ac4077f-70bb-4ec4-b6e7-e0521a1f1784" playOrder="32">
+        <navLabel>
+          <text>Preparing for Programs</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_009.htm#calibre_toc_36"/>
+      </navPoint>
+      <navPoint id="59d713d1-edf2-452a-99f9-158d2452a5c3" playOrder="33">
+        <navLabel>
+          <text>While in School</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_009.htm#calibre_toc_37"/>
+      </navPoint>
+      <navPoint id="ef385469-a219-4b0f-814f-444739634a4d" playOrder="34">
+        <navLabel>
+          <text>Summary</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_009.htm#calibre_toc_38"/>
+      </navPoint>
+      <navPoint id="8fb5b3ed-fd58-4471-aba3-12e113d803a5" playOrder="35">
+        <navLabel>
+          <text>Further Information</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_009.htm#calibre_toc_39"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="1c551118-8f0c-4d1f-a818-5789c335356e" playOrder="36">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_010.htm"/>
+      <navPoint id="ac37784d-6ed1-4aed-b537-44f93677ff2e" playOrder="37">
+        <navLabel>
+          <text>Possible Challenges</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_010.htm#calibre_toc_40"/>
+      </navPoint>
+      <navPoint id="5e10da76-b674-447d-a3d3-1454aebeddfa" playOrder="38">
+        <navLabel>
+          <text>Information Science</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_010.htm#calibre_toc_41"/>
+      </navPoint>
+      <navPoint id="770ae43f-a27e-471b-ac61-392934ca2d57" playOrder="39">
+        <navLabel>
+          <text>The Profession of Librarianship</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_010.htm#calibre_toc_42"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="4378893f-275a-40f9-839d-f7e363285e7c" playOrder="40">
+      <navLabel>
+        <text>Appendix 1: Glossary</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_011.htm"/>
+    </navPoint>
+    <navPoint id="3f53f37b-c039-424e-b6d9-2ce7c029dc6e" playOrder="41">
+      <navLabel>
+        <text>Appendix 2: Interviews</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_012.htm"/>
+      <navPoint id="6b499bd0-6dcd-405c-91c9-198d995af3cf" playOrder="42">
+        <navLabel>
+          <text>School Librarianship</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_43"/>
+      </navPoint>
+      <navPoint id="e3a40884-c025-4cf6-85a3-c1ab72529796" playOrder="43">
+        <navLabel>
+          <text>Academic Libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_44"/>
+      </navPoint>
+      <navPoint id="2b764de2-e3b8-456c-bbb5-32ce2fed8f5f" playOrder="44">
+        <navLabel>
+          <text>Public Libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_45"/>
+      </navPoint>
+      <navPoint id="c1802b14-5b9c-4760-bd66-b105ba3843e2" playOrder="45">
+        <navLabel>
+          <text>Special Libraries</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_46"/>
+      </navPoint>
+      <navPoint id="f02738db-cc8d-4f72-a1bf-9e30c21b277e" playOrder="46">
+        <navLabel>
+          <text>Access Services Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_47"/>
+      </navPoint>
+      <navPoint id="cc58bf3b-a5eb-4056-a318-46299c4c5c0d" playOrder="47">
+        <navLabel>
+          <text>Reference Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_48"/>
+      </navPoint>
+      <navPoint id="2ee83e31-554d-4f34-a482-f35e529d9381" playOrder="48">
+        <navLabel>
+          <text>Educational Technology Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_49"/>
+      </navPoint>
+      <navPoint id="798bcb83-bfab-410b-bb77-ec791b59d0a9" playOrder="49">
+        <navLabel>
+          <text>E-Resources Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_50"/>
+      </navPoint>
+      <navPoint id="2557374b-199d-418f-9f1f-796a6dcac389" playOrder="50">
+        <navLabel>
+          <text>Cataloger Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_51"/>
+      </navPoint>
+      <navPoint id="1bcb5d67-7323-4e99-90b2-e2aa60564988" playOrder="51">
+        <navLabel>
+          <text>Special Collections Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_52"/>
+      </navPoint>
+      <navPoint id="a17b582f-a6a3-4ca8-b095-09749094e0c1" playOrder="52">
+        <navLabel>
+          <text>Digital Projects Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_53"/>
+      </navPoint>
+      <navPoint id="3e205ae4-8ddc-4a69-9c5e-14a24e94b0f5" playOrder="53">
+        <navLabel>
+          <text>Technology Librarian</text>
+        </navLabel>
+        <content src="SoYouWantToBeALibrarian_split_012.htm#calibre_toc_54"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="f245ac61-7b6d-43db-b814-9cec0e4ed68a" playOrder="54">
+      <navLabel>
+        <text>About the Author</text>
+      </navLabel>
+      <content src="SoYouWantToBeALibrarian_split_013.htm"/>
+    </navPoint>
+  </navMap>
+</ncx>
